@@ -11,8 +11,8 @@ This project demonstrates skills in **data wrangling, visualization, storytellin
 
 ## 📸 Dashboard Preview
 
-![Customer Sales Dashboard](![Screenshot 2025-05-31 235549](https://github.com/user-attachments/assets/2e52c1be-2fec-4662-84f5-813d33dfeb95)
-)
+[Customer Sales Dashboard](https://github.com/user-attachments/assets/2e52c1be-2fec-4662-84f5-813d33dfeb95)
+
 
 ---
 
